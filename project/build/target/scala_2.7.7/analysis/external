@@ -1,0 +1,7 @@
+#External Dependencies
+#Wed Jun 08 12:57:01 CEST 2011
+/Users/kukems/Documents/workspace-scala-2.9/hack4eu-lift/project/plugins/target/scala_2.7.7/plugin-classes/de/element34/sbteclipsify/Eclipsify$class.class=LiftProject.scala
+/Users/kukems/Documents/workspace-scala-2.9/hack4eu-lift/project/plugins/target/scala_2.7.7/plugin-classes/de/element34/sbteclipsify/Eclipsify.class=LiftProject.scala
+/Users/kukems/Documents/workspace-scala-2.9/hack4eu-lift/project/boot/scala-2.7.7/org.scala-tools.sbt/sbt/0.7.5/sbt_2.7.7-0.7.5.jar=LiftProject.scala
+/Users/kukems/Documents/workspace-scala-2.9/hack4eu-lift/project/boot/scala-2.7.7/org.scala-tools.sbt/sbt/0.7.5/ivy_2.7.7-0.7.5.jar=LiftProject.scala
+/Users/kukems/Documents/workspace-scala-2.9/hack4eu-lift/project/boot/scala-2.7.7/lib/scala-library.jar=LiftProject.scala
