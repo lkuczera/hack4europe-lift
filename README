@@ -1,0 +1,8 @@
+git clone
+Run
+./sbt
+OR
+sbt.bat
+
+> jetty-run
+open http://localhost:8080/
